@@ -1,0 +1,1 @@
+export const VIDEO_SOURCE="videos/bunny.mp4"
