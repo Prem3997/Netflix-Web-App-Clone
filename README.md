@@ -38,7 +38,7 @@
 
 ### Live Site Demo
 
-Demo: [Link](https://netflix-clone-2ed0d.web.app/)
+Demo: [Link](https://netflix-clone-90752.web.app/)
 
 ### Project Screenshots
 
