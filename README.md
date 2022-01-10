@@ -38,7 +38,7 @@
 
 ### Live Site Demo
 
-Demo: [Link](https://netflix-clone-90752.web.app/)
+Demo: [Link](https://ottapp-c3093.web.app/)
 
 ### Project Screenshots
 
